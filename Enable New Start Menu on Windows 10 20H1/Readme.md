@@ -11,3 +11,5 @@ Link thông tin các thay đổi của bản vá: [Changelogs](https://support.m
 # Bước 2: Sau khi cập nhật xong, các bạn hãy quay lại trang này chọn file "Enable New Start Menu.reg" copy toàn bộ vào Notepad rồi lưu lại dưới dạng file .reg chạy và khởi động lại máy nhé (Các bạn có thể tải xuống luôn file reg để chạy)
 
 Link File reg: [Enable New Start Menu](https://github.com/caidet1/BeSuaTongHop/blob/master/Enable%20New%20Start%20Menu%20on%20Windows%2010%2020H1/Enable%20New%20Start%20Menu.reg)
+
+![Start Menu](https://i.imgur.com/nHZF8KS.jpg)
