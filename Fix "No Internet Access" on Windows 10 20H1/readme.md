@@ -17,11 +17,11 @@ Link bản vá: [KB4568831](https://www.catalog.update.microsoft.com/Search.aspx
 
 Đây cũng là cách có thể nói khó hơn 2 cách trên nhưng nó cũng không đến nỗi mà không làm được.
 
-### Bước 1: Các bạn mở khung tìm kiếm của Windows, tìm "Regedit"
+Bước 1: Các bạn mở khung tìm kiếm của Windows, tìm "Regedit"
 
-### Bước 2: Vào đường dẫn "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet"
+Bước 2: Vào đường dẫn "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet"
 
-### Bước 3: Tìm "EnableActiveProbing", nháy đúp và chỉnh từ "0" thành "1" và khởi động lại máy.
+Bước 3: Tìm "EnableActiveProbing", nháy đúp và chỉnh từ "0" thành "1" và khởi động lại máy.
 
 Hoặc dễ hơn, bạn có thể tải file mình lưu trên Github và chạy: [File reg](https://github.com/caidet1/BeSuaTongHop/blob/master/Fix%20%22No%20Internet%20Access%22%20on%20Windows%2010%2020H1/Fix%20No%20Internet%20Access.reg)
 
