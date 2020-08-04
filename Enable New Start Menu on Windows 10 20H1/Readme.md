@@ -12,4 +12,4 @@ Link thông tin các thay đổi của bản vá: [Changelogs](https://support.m
 
 Link File reg: [Enable New Start Menu](https://github.com/caidet1/BeSuaTongHop/blob/master/Enable%20New%20Start%20Menu%20on%20Windows%2010%2020H1/Enable%20New%20Start%20Menu.reg)
 
-![Start Menu](https://i.imgur.com/nHZF8KS.jpg)
+![Start Menu](https://i.imgur.com/oNo7qZL.png)
