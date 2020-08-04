@@ -9,3 +9,8 @@ Link: [KB4568831](https://www.catalog.update.microsoft.com/Search.aspx?q=KB45688
 Link thông tin các thay đổi của bản vá: [Changelogs](https://support.microsoft.com/en-us/help/4568831/windows-10-update-kb4568831)
 
 # Bước 2: Sau khi cập nhật xong, các bạn hãy copy đoạn phía dưới vào notepad rồi save lại và chạy. Khởi động lại máy sẽ có sự thay đổi.
+
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FeatureManagement\Overrides\0\2093230218]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
