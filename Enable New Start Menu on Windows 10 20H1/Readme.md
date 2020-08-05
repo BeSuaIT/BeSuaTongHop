@@ -8,8 +8,8 @@ Link: [KB4568831](https://www.catalog.update.microsoft.com/Search.aspx?q=KB45688
 
 Link thông tin các thay đổi của bản vá: [Changelogs](https://support.microsoft.com/en-us/help/4568831/windows-10-update-kb4568831)
 
-Bước 2: Sau khi cập nhật xong, các bạn hãy quay lại trang này chọn file "Enable New Start Menu.reg" copy toàn bộ vào Notepad rồi lưu lại dưới dạng file .reg chạy và khởi động lại máy nhé (Các bạn có thể tải xuống luôn file reg để chạy)
+Bước 2: Sau khi cập nhật xong, các bạn hãy tải file "Enable New Start Menu.reg" chạy và khởi động lại máy nhé
 
-Link File reg: [Enable New Start Menu](https://github.com/caidet1/BeSuaTongHop/blob/master/Enable%20New%20Start%20Menu%20on%20Windows%2010%2020H1/Enable%20New%20Start%20Menu.reg)
+Link File reg: [Enable New Start Menu](https://www.upload.ee/files/12103355/Enable_New_Start_Menu.reg.html)
 
 ![Start Menu](https://i.imgur.com/oNo7qZL.png)
