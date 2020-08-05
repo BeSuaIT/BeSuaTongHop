@@ -23,6 +23,6 @@ Bước 2: Vào đường dẫn "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Ser
 
 Bước 3: Tìm "EnableActiveProbing", nháy đúp và chỉnh từ "0" thành "1" và khởi động lại máy.
 
-Hoặc dễ hơn, bạn có thể tải file mình lưu trên Github và chạy: [File reg](https://github.com/caidet1/BeSuaTongHop/blob/master/Fix%20%22No%20Internet%20Access%22%20on%20Windows%2010%2020H1/Fix%20No%20Internet%20Access.reg)
+Hoặc dễ hơn, bạn có thể tải file và chạy: [File reg](https://www.upload.ee/files/12103363/Fix_No_Internet_Access.reg.html)
 
 ![Regedit](https://i.imgur.com/GU6V8fZ.jpg)
