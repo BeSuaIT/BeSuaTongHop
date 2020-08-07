@@ -6,9 +6,11 @@ Bước 1: Truy cập link dưới tải file về và giải nén ra(32bit ch�
 
 Link Download: [Download Now](https://github.com/riverar/mach2/releases)
 
-Bước 2: Mở CMD với quyền Administrator, nhập cd {Đường dẫn chứa file} rồi Enter
+Bước 2: Mở CMD với quyền Administrator, nhập ```cd {Đường dẫn chứa file}``` rồi Enter
 
+```
 VD: cd C:\Users\BeSua\Downloads\mach2_0.3.0.0_x64
+```
 
 Bước 3: Nhập lần lượt các lệnh sau
 
