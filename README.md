@@ -8,6 +8,6 @@ Lưu ý:
 * Các folder trống đang được update dần, các bạn hãy kiên nhẫn.
 * Các nội dung có đụng đến registry, các bạn hãy backup lại registry trước khi thực hiện nhé, chỉ để đề phòng thôi.
 * Link Backup toàn bộ files trên Google Drive: [Enter](https://drive.google.com/drive/folders/1d05mSOkQyMor-0mKcpUs0pLdKRQb3Cmj?usp=sharing)
-* Các nguồn mình hay thu thập đều tin cậy: [J2TEAM Community](www.facebook.com/groups/j2team.community), [How-To Geek](www.howtogeek.com), [Windowslastest](www.windowslatest.com), [ASKVG](www.askvg.com), .....
+* Các nguồn mình hay thu thập đều tin cậy: [J2TEAM Community](https://www.facebook.com/groups/j2team.community), [How-To Geek](https://www.howtogeek.com), [Windowslastest](https://www.windowslatest.com), [ASKVG](https://www.askvg.com), .....
 
 Link liên hệ qua Facebook: [Facebook](https://www.facebook.com/anypaidthingsarefree)
