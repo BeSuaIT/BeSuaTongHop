@@ -6,7 +6,9 @@ Bắt đầu từ bản Windows 10 Ver 2004, Microsoft đã bắt đầu biến 
 
 Các bạn mở Powershell với quyền Administrator >>> Copy code dưới vào >>> Enter
 
+```
 Get-AppxPackage -allusers Microsoft.549981C3F5F10 | Remove-AppxPackage
+```
 
 Còn icon trên thanh taskbar, các bạn chỉ cần chuột phải thanh taskbar >>> bỏ tích Show Cortana button là xong nhé.
 
