@@ -11,6 +11,7 @@ x64 | [Download Now](https://drive.google.com/file/d/1Xfc9SO8AxAy1rQLnZ2o-cjqYL1
 
 Bước 2: Mở Powershell với quyền administrator, copy từng lệnh dưới vào (lưu ý chạy xong lệnh 1 mới copy lệnh 2)
 
+```
 x86:
 * dism /online /add-package /packagepath:Microsoft-Windows-Internet-Browser-Package-x86-10.0.17763.1.cab
 * dism /online /add-package /packagepath:Microsoft-Windows-Internet-Browser-Package-x86-10.0.17763.1-en-US.cab
@@ -18,6 +19,7 @@ x86:
 x64:
 * dism /online /add-package /packagepath:Microsoft-Windows-Internet-Browser-Package-amd64-10.0.17763.1.cab
 * dism /online /add-package /packagepath:Microsoft-Windows-Internet-Browser-Package-amd64-10.0.17763.1-en-US.cab
+```
 
 Bước 3: Sau khi chạy xong 2 lệnh trên, tiếp tục copy lệnh dưới vào
 
