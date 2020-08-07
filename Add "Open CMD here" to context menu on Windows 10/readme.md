@@ -4,8 +4,11 @@ Như các bạn đã biết, ở Windows 10, khi các bạn giữ Shift+chuột 
 
 Bước 1: Các bạn vào khung tìm kiếm, gõ "regedit" rồi tìm đến đường dẫn sau:
 
+```
 HKEY_CLASSES_ROOT\Directory\shell\cmd
+
 HKEY_CLASSES_ROOT\Directory\Background\shell\cmd
+```
 
 Bước 2: (Bắt đầu từ bước này thì các bạn làm cả 2 đường dẫn trên như nhau nhé, mình sẽ gộp vào hướng dẫn chung cho đỡ dài): Chuột phải folder "cmd" >>> Permissions >>> Advanced >>> Change (cạnh TrustedInstaller)
 
