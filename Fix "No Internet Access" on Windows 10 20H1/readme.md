@@ -21,8 +21,8 @@ Link Tool: [Download Now](https://github.com/crazy-max/WindowsSpyBlocker/release
 
 Sau khi chạy các bạn lựa chọn theo từng hướng dẫn dưới:
 * Telemetry (gõ 1 -> Enter)
-* NCSI (2 -> Enter)
-* Apply Debian NCSI (2 -> Enter)
+* NCSI (gõ 2 -> Enter)
+* Apply Debian NCSI (gõ 2 -> Enter)
 
 Khi chạy xong, các bạn chỉ cần ngắt kết nối với mạng và kết nối lại là được.
 
