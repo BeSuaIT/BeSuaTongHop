@@ -8,3 +8,5 @@ Lưu ý:
 * Các folder trống đang được update dần, các bạn hãy kiên nhẫn.
 * Các nội dung có đụng đến registry, các bạn hãy backup lại registry trước khi thực hiện nhé, chỉ để đề phòng thôi.
 * Link Backup toàn bộ files trên Google Drive: [Enter](https://drive.google.com/drive/folders/1d05mSOkQyMor-0mKcpUs0pLdKRQb3Cmj?usp=sharing)
+
+Link liên hệ qua Facebook: [Facebook](https://www.facebook.com/anypaidthingsarefree)
