@@ -21,6 +21,8 @@ x64:
 
 Bước 3: Sau khi chạy xong 2 lệnh trên, tiếp tục copy lệnh dưới vào
 
+```
 Add-AppxPackage -DisableDevelopmentMode -Register $Env:SystemRoot\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\AppxManifest.xml
+```
 
 ![Microsoft Edge](https://scontent.fhan2-6.fna.fbcdn.net/v/t1.0-9/s960x960/43237930_1097171220452261_490187800063246336_o.jpg?_nc_cat=103&_nc_sid=8024bb&_nc_ohc=fhfqIsV09jIAX8wXGsL&_nc_ht=scontent.fhan2-6.fna&_nc_tp=7&oh=3caf65d51451f1fb656b2bc12931137c&oe=5F4E91CA)
