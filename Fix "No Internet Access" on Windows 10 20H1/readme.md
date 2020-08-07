@@ -13,7 +13,21 @@ Theo Changelogs của Microsoft thì bản vá này đã fix được khá nhi�
 
 Link bản vá: [KB4568831](https://www.catalog.update.microsoft.com/Search.aspx?q=KB4568831)
 
-# Cách 3: Sử dụng Registry:
+# Cách 3: Sử dụng công cụ bên ngoài:
+
+Trước hết các bạn tải file theo link ở dưới và chạy với quyền Administrator
+
+Link Tool: [Download Now](https://github.com/crazy-max/WindowsSpyBlocker/releases/tag/4.31.1)
+
+Sau khi chạy các bạn lựa chọn theo từng hướng dẫn dưới:
+* Telemetry (gõ 1 -> Enter)
+* NCSI (2 -> Enter)
+* Apply Debian NCSI (2 -> Enter)
+
+Khi chạy xong, các bạn chỉ cần ngắt kết nối với mạng và kết nối lại là được.
+
+![Image](https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-0/p600x600/117351730_2704142953134068_3213013193545685726_o.jpg?_nc_cat=102&_nc_sid=07e735&_nc_ohc=mknwVtUkKOAAX8-Uisv&_nc_ht=scontent.fhan2-1.fna&_nc_tp=6&oh=91fb18fef5571653a3207a0600511552&oe=5F51F250)
+# Cách 4: Sử dụng Registry:
 
 Đây cũng là cách có thể nói khó hơn 2 cách trên nhưng nó cũng không đến nỗi mà không làm được.
 
