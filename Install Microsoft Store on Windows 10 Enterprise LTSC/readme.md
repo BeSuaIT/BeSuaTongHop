@@ -12,7 +12,9 @@ Bước 2: Chuột phải file "Add-Store.cmd" >>> Run as administrator và ch�
 
 Sau khi cài xong, nếu Microsoft Store không hoạt động thì bạn hãy copy lệnh dưới vào CMD với quyền administrator:
 
+```
 PowerShell -ExecutionPolicy Unrestricted -Command "& {$manifest = (Get-AppxPackage Microsoft.WindowsStore).InstallLocation + '\AppxManifest.xml' ; Add-AppxPackage -DisableDevelopmentMode -Register $manifest}"
+```
 
 Nếu vẫn không chạy được thì lại tiếp tục mở Run lên >>> Gõ "WSReset.exe" và Enter, lúc này chắc chắn thành công.
 
