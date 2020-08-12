@@ -3,7 +3,7 @@
 Mẹo này dành cho ai không muốn lên các bản Windows mới hơn nhưng vẫn muốn nhận các bản cập nhật vá. Dưới đây là hướng dẫn
 
 Lưu ý: 
-* Theo mình thấy thì cách này tạm thời không có tác dụng cho những ai đang xài bản Home.
+* Theo mình thấy thì cách này tạm thời có tác dụng cho những ai đang xài bản Pro, Enterprise, Education
 * Mình không đóng file reg vì cái này tuỳ theo vào từng phiên bản.
 * Cách này cũng có thể áp dụng cho ai không cập nhật được lên 2004, khi đến bước 3, các bạn set giá trị là "2004" rồi Check For Update là được.
 
