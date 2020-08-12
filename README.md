@@ -10,4 +10,4 @@ Lưu ý:
 * Link Backup toàn bộ files trên Google Drive (Nếu có link die mình chưa kịp update lại thì các bạn vào đây nhé): [Enter](https://drive.google.com/drive/folders/1d05mSOkQyMor-0mKcpUs0pLdKRQb3Cmj?usp=sharing)
 * Các nguồn mình hay thu thập đều tin cậy: [J2TEAM Community](https://www.facebook.com/groups/j2team.community), [How-To Geek](https://www.howtogeek.com), [Windowslastest](https://www.windowslatest.com), [AskVG](https://www.askvg.com), .....
 
-Link liên hệ qua Facebook: [Facebook](https://www.facebook.com/anypaidthingsarefree)
+Link liên hệ qua Facebook: [Facebook](https://www.facebook.com/itrum.vn/)
