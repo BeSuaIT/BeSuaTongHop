@@ -6,6 +6,7 @@ Lưu ý:
 * Theo mình thấy thì cách này tạm thời có tác dụng cho những ai đang xài bản Pro, Enterprise, Education
 * Mình không đóng file reg vì cái này tuỳ theo vào từng phiên bản.
 * Cách này cũng có thể áp dụng cho ai không cập nhật được lên 2004, khi đến bước 3, các bạn set giá trị là "2004" rồi Check For Update là được.
+* Nếu bạn nào muốn cập nhật lên thì chỉ cần vào đường dẫn dưới xoá folder "WindowsUpdate" rồi quay lại "Check For Update" nhé.
 
 Bước 1: Các bạn mở Registry Editor lên, vào đường dẫn
 
