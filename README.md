@@ -1,4 +1,7 @@
 # BeSuaTongHop
+
+# Tạm dừng update folder 1 thời gian vì công việc.
+
 # Chào mừng các bạn đến với Github của mình. Mình có 1 số lưu ý ở dưới mong các bạn đọc.
 
 Lưu ý:
